@@ -6,6 +6,6 @@ This project, conducted as part of the Certificate of Advanced Studies (CAS) in 
 
 Our research leverages pre-trained transformer models to classify client questions into specific categories such as Accounts, Cards, Insurance, and Loans. By automating this classification process, we aim to provide valuable insights into customer needs and optimize the bank's product offerings accordingly. Additionally, this study explores the integration of a retrieval-based Question Answering (QA) system using a Large Language Model (LLM) to further enhance the bank's responsiveness to client queries. Our results demonstrate the potential of combining machine learning models with practical banking applications to significantly improve customer support and product optimization strategies.
 
-###Authors
-Gözde Özdemir (goezde.oezdemir@outlook.com)
-Sonam (sonam.@gmail.com)
+### Authors
+* Gözde Özdemir (goezde.oezdemir@outlook.com)
+* Sonam (sonam.@gmail.com)
