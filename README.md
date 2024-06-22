@@ -1,4 +1,5 @@
-# Question Classification
+# Question Classification Using Transformers and LLM-based QA system
+
 ### CAS Advanced Machine Learning - Uni Bern
 
 This project, conducted as part of the Certificate of Advanced Studies (CAS) in Advanced Machine Learning program at the University of Bern, focuses on enhancing the customer service experience at GS Bank, a hypothetical financial institution, through advanced question classification techniques. In the banking and finance sector, accurately categorizing customer inquiries is essential for improving response times, increasing customer satisfaction, and streamlining support processes.
