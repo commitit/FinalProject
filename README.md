@@ -8,8 +8,8 @@ Our research leverages pre-trained transformer models to classify client questio
 
 #### [Project Report](https://github.com/commitit/FinalProject/blob/main/Question%20Classification%20Using%20Transformer%20Models%20and%20LLM-based%20QA%20system.pdf)
 
-* Our project focuses on leveraging transfer learning for question classifications by fine-tuning three pre-trained variants of BERT: DistilBERT, RoBERTa and ALBERT.
-* For the	Implementation of our Large Language Model-based QA System, we integrated a retrieval-based Question Answering (QA) system utilizing Langchain with Large Language Model Google PaLM, FAISS for vector storage. This QA system will provide accurate and timely responses to customer inquiries, further enhancing the customer service experience.
+* Our project focuses on leveraging and fine-tuning three pre-trained variants of BERT for question classifications: DistilBERT, RoBERTa and ALBERT.
+* For the	Implementation of our Large Language Model-based QA System, we integrated a retrieval-based Question Answering (QA) system utilizing Langchain with Google PaLM LLM and FAISS for vector storage. This QA system will provide accurate and timely responses to customer inquiries, further enhancing the customer service experience.
 
 
 
