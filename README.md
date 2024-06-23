@@ -1,4 +1,4 @@
-# Question Classification Using Transformers and LLM-based QA system
+## Question Classification Using Transformers and LLM-based QA system
 
 ### Project Overview
 
@@ -6,20 +6,8 @@ This project, conducted as part of the Certificate of Advanced Studies (CAS) in 
 
 Our research leverages pre-trained transformer models to classify client questions into specific categories such as Accounts, Cards, Insurance, and Loans. By automating this classification process, we aim to provide valuable insights into customer needs and optimize the bank's product offerings accordingly. Additionally, this study explores the integration of a retrieval-based Question Answering (QA) system using a Large Language Model (LLM) to further enhance the bank's responsiveness to client queries. Our results demonstrate the potential of combining machine learning models with practical banking applications to significantly improve customer support and product optimization strategies.
 
-Project Report: 
-Notebook: 
-{
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/commitit/FinalProject/blob/main/LLMv2.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    }
+* #### [Project Report](https://github.com/commitit/FinalProject/blob/main/Question%20Classification%20Using%20Transformer%20Models%20and%20LLM-based%20QA%20system.pdf)
+* #### [Notebook](https://github.com/commitit/FinalProject/blob/main/LLMv2.ipynb)
 
 ### Authors
 * Gözde Özdemir (goezde.oezdemir@outlook.com, goezde.oezdemir@students.unibe.ch)
