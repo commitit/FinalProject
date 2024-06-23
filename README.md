@@ -9,6 +9,8 @@ Our research leverages pre-trained transformer models to classify client questio
 * #### [Project Report](https://github.com/commitit/FinalProject/blob/main/Question%20Classification%20Using%20Transformer%20Models%20and%20LLM-based%20QA%20system.pdf)
 * #### [Notebook](https://github.com/commitit/FinalProject/blob/main/LLMv2.ipynb)
 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/commitit/FinalProject/blob/main/LLM.ipynb)]
+
 ### Authors
 * Gözde Özdemir (goezde.oezdemir@outlook.com, goezde.oezdemir@students.unibe.ch)
 * Sonam Lhamu (sonlha90@gmail.com , sonam.lhamu@students.unibe.ch)
