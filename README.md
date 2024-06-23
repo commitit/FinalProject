@@ -6,10 +6,14 @@ This project, conducted as part of the Certificate of Advanced Studies (CAS) in 
 
 Our research leverages pre-trained transformer models to classify client questions into specific categories such as Accounts, Cards, Insurance, and Loans. By automating this classification process, we aim to provide valuable insights into customer needs and optimize the bank's product offerings accordingly. Additionally, this study explores the integration of a retrieval-based Question Answering (QA) system using a Large Language Model (LLM) to further enhance the bank's responsiveness to client queries. Our results demonstrate the potential of combining machine learning models with practical banking applications to significantly improve customer support and product optimization strategies.
 
-* #### [Project Report](https://github.com/commitit/FinalProject/blob/main/Question%20Classification%20Using%20Transformer%20Models%20and%20LLM-based%20QA%20system.pdf)
-* #### [Notebook](https://github.com/commitit/FinalProject/blob/main/LLMv2.ipynb)
+#### [Project Report](https://github.com/commitit/FinalProject/blob/main/Question%20Classification%20Using%20Transformer%20Models%20and%20LLM-based%20QA%20system.pdf)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/commitit/FinalProject/blob/main/LLM.ipynb)]
+* Our project focuses on leveraging transfer learning for question classifications by fine-tuning three pre-trained variants of BERT: DistilBERT, RoBERTa and ALBERT.
+* For the	Implementation of our Large Language Model-based QA System, we integrated a retrieval-based Question Answering (QA) system utilizing Langchain with Large Language Model Google PaLM, FAISS for vector storage. This QA system will provide accurate and timely responses to customer inquiries, further enhancing the customer service experience.
+
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/commitit/FinalProject/blob/main/LLM.ipynb)
 
 ### Authors
 * Gözde Özdemir (goezde.oezdemir@outlook.com, goezde.oezdemir@students.unibe.ch)
